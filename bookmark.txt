@@ -1,0 +1,1 @@
+It's a file so git doesn't ignore the folder.
